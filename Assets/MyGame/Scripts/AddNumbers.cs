@@ -6,7 +6,7 @@ public class AddNumbers : MonoBehaviour
 {
     void Start()
     {
-        int a = 3;
+        int a = 3
         int b = 4;
 
         Debug.Log("a = " + a);
